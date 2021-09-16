@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: white;
+}
+
+textarea {
+  width: 40%;
+  height: 12vh;
+  margin: auto;
+  padding: 1rem;
+  display: block;
+  border: 1px solid #A12568;
+  font-family: 'Kalam', cursive;
+  border-radius: 20px;
+  outline: none;
+}
+
+#output {
+  width: 40%;
+  min-height: 8vh;
+  max-height: 10vh;
+  text-align: left;
+  margin:auto;
+  padding: 1rem;
+  display: block;
+  border: 1px solid #A12568;
+  font-family: 'Kalam', cursive;
+  border-radius: 20px;
+  outline: none;
+}
+footer {
+  background-color:#A12568;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+}
+ footer p{
+   margin: auto;
+   width: 60%;
+   font-family: 'Kalam', cursive;
+ }
+.heading {
+  background-color:#A12568;
+  color: white;
+  padding: 0.5rem;
+  font-family: 'Kalam', cursive;
+  /* font-family: 'Open Sans', sans-serif; */
+}
+main{
+  margin: auto;
+  padding: 1rem;
+}
+h1 {
+  margin: auto;
+  text-align: center;
+  color: yellow;
+}
+p{
+  margin: 0;
+}
+.about-info {
+  width: 40%;
+  text-align: center;
+  line-height: 1.5;
+}
+.abt{
+  font-size:x-large;
+  color: yellow;
+  font-weight: bold;
+}
+.minions-img{
+  height: 10rem;
+  margin-bottom: 0;
+}
+#btn-translate{
+  background-color:#A12568;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  border: none;
+  margin: 1rem 0rem;
+  padding: 1rem;
+  font-size: 0.8rem;
+}
